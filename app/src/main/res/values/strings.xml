@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="main_title">Tour Guide - Bishkek</string>
+    <string name="category_culture">Culture</string>
+    <string name="category_parks">Parks</string>
+    <string name="category_monuments">Monuments</string>
+    <string name="category_shopping">Shopping</string>
+
+    <string name="theater">Театр оперы и балета</string>
+    <string name="museum">Музей искусств имени Гапара Айтиева</string>
+    <string name="Historical_museum">Исторический музей</string>
+    <string name="zoo_mus">Зоологический музей</string>
+    <string name="Geological_Museum">Геологический музей</string>
+    <string name="Frunze_Museum">Дом-Музей М. В. Фрунзе</string>
+
+
+
+
+    <!-- Monuments names -->
+    <string name="monument_Bubusara">Скульптура Бубусары Бейшеналиевой</string>
+    <string name="monument_angel">Архитектурный комплекс "Добрый Ангел мира"</string>
+    <string name="monument_poslanie">Памятник-послание</string>
+    <string name="monument_spasatel">Памятник Спасателю в парке имени Даира Асанова</string>
+    <string name="monument_erkindik">Монумент "Эркиндик" на площади Ала-Тоо</string>
+
+
+
+    <!-- Parks names -->
+    <string name="Ala_Archa_Gorge">Ущелье Ала Арча</string>
+    <string name="Ataturk_Park">Парк им. М.К. Ататюрка</string>
+    <string name="flamingo">Парк Фламинго</string>
+    <string name="Korona_Peak">Пик короны</string>
+    <string name="Asanbay">Парк Асанбай</string>
+    <string name="Panfilov">Парк Панфилова</string>
+
+
+    <!-- Shopping places names -->
+    <string name="asia_mall">ASIA MALL</string>
+    <string name="tumarartsalon">Tumar Art Salon</string>
+    <string name="vefa">Vefa Center</string>
+    <string name="Bishkek_Park">Bishkek Park</string>
+    <string name="dordoi_pl">Dordoi Plaza</string>
+    <string name="Seoul_Plaza">Seoul Plaza</string>
+    <string name="ala">АЛА АРЧА</string>
+
+
+</resources>
